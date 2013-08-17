@@ -1,0 +1,3 @@
+supertab.vmb: call delete('/home/esam/.vim/doc/supertab.txt')|call delete('/home/esam/.vim/plugin/supertab.vim')
+supertab.vmb: call delete('/home/esam/.vim/doc/supertab.txt')|call delete('/home/esam/.vim/plugin/supertab.vim')
+supertab.vmb: call delete('/home/esam/.vim/doc/supertab.txt')|call delete('/home/esam/.vim/plugin/supertab.vim')

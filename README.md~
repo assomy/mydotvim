@@ -1,0 +1,14 @@
+vimide
+======
+
+Vim as a PHP and Python-Django IDE
+
+Installation
+---
+    cd ~
+    git clone git@github.com:perfectspr/vimide.git .vim
+    ln -s ~/.vim/.vimrc ~/.vimrc
+    cd ~/.vim
+    git submodule init
+    git submodule update
+
